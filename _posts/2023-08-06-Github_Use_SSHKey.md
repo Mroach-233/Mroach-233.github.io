@@ -128,11 +128,11 @@ Start-Service ssh-agent
 1. 有时候本地的项目是之前用https克隆的，懒得重新使用SSH克隆的话，可以在项目所在目录下的**.git文件夹**里找到**config**配置文件；
 
    <img src="https://raw.githubusercontent.com/Mroach-233/Mroach-233.github.io/master/images/image-20230806021605762.png" alt="image-20230806021605762" style="zoom:67%;" />
-
-记事本打开后将原来的**url地址**换成SSH的即可；
-
-<img src="https://raw.githubusercontent.com/Mroach-233/Mroach-233.github.io/master/images/image-20230804222619842.png" alt="image-20230804222619842" style="zoom:80%;" />
-
+   
+   记事本打开后将原来的**url地址**换成SSH的即可；
+   
+   <img src="https://raw.githubusercontent.com/Mroach-233/Mroach-233.github.io/master/images/image-20230804222619842.png" alt="image-20230804222619842" style="zoom:80%;" />
+   
 2. 我本地使用的是TortoiseGit，克隆项目到本地的时候会出现以下错误：
 
 ![image-20230804232737879](https://raw.githubusercontent.com/Mroach-233/Mroach-233.github.io/master/images/image-20230804232737879.png)
