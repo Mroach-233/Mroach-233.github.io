@@ -112,6 +112,10 @@ author: Mroach-233
 1. 电脑没有**远程桌面连接**，可以在系统里看看电脑是不是**专业版**，家庭版是没有远程桌面连接这个功能的，可以在万能的某宝上面搞一个激活码，也就两三块钱的事；
 
    ![image-20230807200653946](https://raw.githubusercontent.com/Mroach-233/Mroach-233.github.io/master/images/image-20230807200653946.png)
+   
+   
+   
+2. 在解压Frp的时候，有时会出现**frpc.exe**和**frps.exe**文件被防火墙删了的情况，这时候需要允许白名单；
 
 ## 参考资料
 
